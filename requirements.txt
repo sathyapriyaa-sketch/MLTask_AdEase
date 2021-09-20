@@ -1,0 +1,6 @@
+Install these packages before running the code -
+   
+  -> bs4       : "pip install bs4"
+  -> requests  : "pip install requests"
+  -> lxml      : "pip install lxml"
+  -> parse     :  "pip install parse"
